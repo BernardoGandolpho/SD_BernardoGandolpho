@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RelatorioServiceTest" project="lab_jpa" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.inatel.labs.labjpa.service.RelatorioServiceTest" time="69.343" displayname="RelatorioServiceTest" uniqueid="[engine:junit-jupiter]/[class:br.inatel.labs.labjpa.service.RelatorioServiceTest]">
+    <testcase name="test" classname="br.inatel.labs.labjpa.service.RelatorioServiceTest" time="69.343" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:br.inatel.labs.labjpa.service.RelatorioServiceTest]/[method:test()]"/>
+  </testsuite>
+</testrun>

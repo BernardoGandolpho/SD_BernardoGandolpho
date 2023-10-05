@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DataLoader" project="lab_jpa" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.inatel.labs.labjpa.DataLoader" time="87.714" displayname="DataLoader" uniqueid="[engine:junit-jupiter]/[class:br.inatel.labs.labjpa.DataLoader]">
+    <testcase name="load" classname="br.inatel.labs.labjpa.DataLoader" time="87.714" displayname="load()" uniqueid="[engine:junit-jupiter]/[class:br.inatel.labs.labjpa.DataLoader]/[method:load()]"/>
+  </testsuite>
+</testrun>

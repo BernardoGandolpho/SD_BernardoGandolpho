@@ -1,0 +1,14 @@
+package br.inatel.labs.labjpa.service;
+
+import org.springframework.stereotype.Service;
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.PersistenceContext;
+
+
+@Service
+public class RelatorioService {
+	
+	@PersistenceContext
+	private EntityManager em;
+}
